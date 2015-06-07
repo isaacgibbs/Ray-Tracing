@@ -9,3 +9,5 @@ http://matbury.com/assets/papervision/earth.jpg
 
 Moon_Texture.jpg
 http://laps.noaa.gov/albers/sos/features/combined_moon_major_lon_180_center_small.jpg
+
+After downloading the above assets or any assets desired to be implemented by a ray tracing object. Copy the images to the same directory as the program's .cs files.
