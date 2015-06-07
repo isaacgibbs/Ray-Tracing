@@ -1,0 +1,96 @@
+S:\Visual Studio 2012\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+S:\Visual Studio 2012\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+S:\Visual Studio 2012\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.main.resources
+S:\Visual Studio 2012\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+S:\Visual Studio 2012\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+C:\Users\Gryph\Desktop\c# Projects\Ray_Tracing_0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+S:\Visual C#\Ray_Tracing Isaac_Gibbs 0.1\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+C:\Users\stu452786\Desktop\Ray_Tracing_0.2\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.3\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+S:\Visual C#\Ray_Tracing_Isaac_Gibbs_Turnin_3zip\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+E:\Documents\c# Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+C:\Users\Gryph\Documents\Visual Studio 2012\Projects\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+S:\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+S:\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+S:\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+D:\Downloads\Isaac_Western_Student_Documents\Ray_Tracing_0.6\Ray_Tracing_0.5\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.csprojResolveAssemblyReference.cache
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+D:\Isaac Program History\Ray Tracing\Program\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
